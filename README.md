@@ -7,11 +7,10 @@ Howto:
 2. And set your sms url of the function send_sms in MySQLib.py 
 
 Instruction: 
-
-MySQLib.py:  The project library with the connection\Logging\Email\Sms Funcs.
-checkMySQL.py: Keepalived check alived script which will check MySQL instance health and gatway is alive.
-notify.py: When Keepalived switch to master or backup or fail state, the script will be executed.
-config.py: The project's config file.
+1. MySQLib.py:  The project library with the connection\Logging\Email\Sms Funcs.
+2. checkMySQL.py: Keepalived check alived script which will check MySQL instance health and gatway is alive.
+3. notify.py: When Keepalived switch to master or backup or fail state, the script will be executed.
+4. config.py: The project's config file.
 
 Email: hailong.sun1982@gmail.com 
 QQ: 173386747
